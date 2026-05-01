@@ -1,0 +1,25 @@
+{
+  "name": "ali-deals-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryhmh/ali-deals-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ryhmh/ali-deals-bot/issues"
+  },
+  "homepage": "https://github.com/ryhmh/ali-deals-bot#readme",
+  "dependencies": {
+    "axios": "^1.15.2",
+    "node-cron": "^4.2.1"
+  }
+}
